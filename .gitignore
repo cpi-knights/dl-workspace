@@ -1,4 +1,6 @@
 .venv
 
 datasets
+!datasets/aqi/generated
+
 models
