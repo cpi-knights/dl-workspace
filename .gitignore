@@ -1,6 +1,7 @@
 .venv
 
-datasets
-!datasets/aqi/generated
+# datasets
+# !datasets/aqi/generated
+# !datasets/aqi/weather
 
 models
